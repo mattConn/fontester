@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Carrois Gothic SC';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Carrois Gothic SC Regular'), local('CarroisGothicSC-Regular'), url(https://fonts.gstatic.com/s/carroisgothicsc/v7/bVp4nhwFIXU-r3LqUR8DSEXZfvqDQow1E55U9qI_yj0.ttf) format('truetype');
+}

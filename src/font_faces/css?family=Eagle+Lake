@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Eagle Lake';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Eagle Lake'), local('EagleLake-Regular'), url(https://fonts.gstatic.com/s/eaglelake/v5/7iuL6oiKGY2Q5j9N_W6QtS3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+}

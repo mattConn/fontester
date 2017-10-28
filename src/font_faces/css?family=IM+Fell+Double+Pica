@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'IM Fell Double Pica';
+  font-style: normal;
+  font-weight: 400;
+  src: local('IM FELL Double Pica Roman '), local('IM_FELL_Double_Pica_Roman'), url(https://fonts.gstatic.com/s/imfelldoublepica/v7/yN1wY_01BkQnO0LYAhXdUhA2jF5cpFQC0-e9l2_bLak.ttf) format('truetype');
+}

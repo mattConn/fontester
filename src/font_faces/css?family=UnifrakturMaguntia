@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'UnifrakturMaguntia';
+  font-style: normal;
+  font-weight: 400;
+  src: local('UnifrakturMaguntia'), url(https://fonts.gstatic.com/s/unifrakturmaguntia/v8/7KWy3ymCVR_xfAvvcIXm36ofnEspxrPLQXtAOAVG_vM.ttf) format('truetype');
+}

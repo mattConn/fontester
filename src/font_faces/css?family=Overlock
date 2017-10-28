@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Overlock';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Overlock Regular'), local('Overlock-Regular'), url(https://fonts.gstatic.com/s/overlock/v7/oIwdBjO99oH_APMcy7EuWPesZW2xOQ-xsNqO47m55DA.ttf) format('truetype');
+}

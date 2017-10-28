@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Moul';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Moul'), url(https://fonts.gstatic.com/s/moul/v9/Kb0ALQnfyXawP1a_P_gpTQ.ttf) format('truetype');
+}

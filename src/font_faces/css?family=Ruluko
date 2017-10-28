@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Ruluko';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ruluko'), url(https://fonts.gstatic.com/s/ruluko/v5/DweLTYBgfY4lsDRfU39BCQ.ttf) format('truetype');
+}

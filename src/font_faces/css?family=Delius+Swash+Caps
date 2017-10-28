@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Delius Swash Caps';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Delius Swash Caps'), local('DeliusSwashCaps-Regular'), url(https://fonts.gstatic.com/s/deliusswashcaps/v9/uXyrEUnoWApxIOICunRq78NWT6CuowAotx_Dv3iC2Y0.ttf) format('truetype');
+}

@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Offside';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Offside'), local('Offside-Regular'), url(https://fonts.gstatic.com/s/offside/v5/CGrugV3oJ92UQ-6yJivgVQ.ttf) format('truetype');
+}

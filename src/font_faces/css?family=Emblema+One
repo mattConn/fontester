@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Emblema One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Emblema One'), local('EmblemaOne-Regular'), url(https://fonts.gstatic.com/s/emblemaone/v6/DP45btqoXRGq3Q7LXbPYRp0EAVxt0G0biEntp43Qt6E.ttf) format('truetype');
+}

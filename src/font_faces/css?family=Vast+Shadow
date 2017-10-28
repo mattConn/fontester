@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Vast Shadow';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Vast Shadow Regular'), local('VastShadow-Regular'), url(https://fonts.gstatic.com/s/vastshadow/v7/vUwwSAve1had6QNw3_7lJZ0EAVxt0G0biEntp43Qt6E.ttf) format('truetype');
+}

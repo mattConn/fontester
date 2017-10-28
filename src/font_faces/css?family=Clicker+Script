@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Clicker Script';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Clicker Script'), local('ClickerScript-Regular'), url(https://fonts.gstatic.com/s/clickerscript/v5/Zupmk8XwADjufGxWB9KThC5FJMZltoAAwO2fP7iHu2o.ttf) format('truetype');
+}

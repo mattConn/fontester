@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Odor Mean Chey';
+  font-style: normal;
+  font-weight: 400;
+  src: local('OdorMeanChey'), url(https://fonts.gstatic.com/s/odormeanchey/v9/GK3E7EjPoBkeZhYshGFo0eVKG8sq4NyGgdteJLvqLDs.ttf) format('truetype');
+}

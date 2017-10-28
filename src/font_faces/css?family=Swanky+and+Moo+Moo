@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Swanky and Moo Moo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Swanky and Moo Moo'), local('SwankyandMooMoo'), url(https://fonts.gstatic.com/s/swankyandmoomoo/v7/orVNZ9kDeE3lWp3U3YELu6tvzQ87nJ9Msqx5_vKiy0s.ttf) format('truetype');
+}

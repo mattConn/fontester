@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Emilys Candy';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Emilys Candy'), local('EmilysCandy-Regular'), url(https://fonts.gstatic.com/s/emilyscandy/v5/PofLVm6v1SwZGOzC8s-I3YnF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
+}

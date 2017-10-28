@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Yesteryear';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Yesteryear'), local('Yesteryear-Regular'), url(https://fonts.gstatic.com/s/yesteryear/v6/Y-2_3oNnGXTRT4ySJQfhEC3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+}

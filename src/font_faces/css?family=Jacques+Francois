@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Jacques Francois';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Jacques Francois'), local('JacquesFrancois-Regular'), url(https://fonts.gstatic.com/s/jacquesfrancois/v5/_-0XWPQIW6tOzTHg4KaJ_MR42GDen2yMHmykTFI-eTY.ttf) format('truetype');
+}

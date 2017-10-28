@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Londrina Outline';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Londrina Outline Regular'), local('LondrinaOutline-Regular'), url(https://fonts.gstatic.com/s/londrinaoutline/v8/lls08GOa1eT74p072l1AWK3zAIRJwSgnq8SMHmx0gDM.ttf) format('truetype');
+}

@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Ruda';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ruda Regular'), local('Ruda-Regular'), url(https://fonts.gstatic.com/s/ruda/v9/Y3cEAPkpwxcFpAfTchaPEA.ttf) format('truetype');
+}

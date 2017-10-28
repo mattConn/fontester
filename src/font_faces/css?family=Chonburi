@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Chonburi';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Chonburi'), local('Chonburi-Regular'), url(https://fonts.gstatic.com/s/chonburi/v2/A1-rA12Lub2f0TV66DbwbvesZW2xOQ-xsNqO47m55DA.ttf) format('truetype');
+}

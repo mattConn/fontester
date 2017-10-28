@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Bilbo Swash Caps';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Bilbo Swash Caps Regular'), local('BilboSwashCaps-Regular'), url(https://fonts.gstatic.com/s/bilboswashcaps/v9/UB_-crLvhx-PwGKW1oosDr696hY-neTbCTvwDUFvtCU.ttf) format('truetype');
+}

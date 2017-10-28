@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Vesper Libre';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Vesper Libre'), local('VesperLibre-Regular'), url(https://fonts.gstatic.com/s/vesperlibre/v9/Cg-TeZFsqV8BaOcoVwzu2InF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
+}

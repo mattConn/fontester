@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Wellfleet';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Wellfleet'), local('Wellfleet-Regular'), url(https://fonts.gstatic.com/s/wellfleet/v5/qu15OBOh_Q0T8ooRUaKSDaCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}

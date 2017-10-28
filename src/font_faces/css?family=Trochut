@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Trochut';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Trochut'), url(https://fonts.gstatic.com/s/trochut/v5/otp492qxkuG7_H_QlxbOZw.ttf) format('truetype');
+}

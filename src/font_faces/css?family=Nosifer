@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Nosifer';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Nosifer'), local('Nosifer-Regular'), url(https://fonts.gstatic.com/s/nosifer/v6/9e38a9mB2Vvr5Yetzutb1Q.ttf) format('truetype');
+}

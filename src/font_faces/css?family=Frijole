@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Frijole';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Frijole'), url(https://fonts.gstatic.com/s/frijole/v6/KY1jGfdOyy7wGqIgHMe1-A.ttf) format('truetype');
+}

@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Strait';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Strait'), local('Strait-Regular'), url(https://fonts.gstatic.com/s/strait/v5/akoj8DmzSjm0QpDBXzBYKw.ttf) format('truetype');
+}

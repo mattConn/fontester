@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Tinos';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Tinos Regular'), local('Tinos-Regular'), url(https://fonts.gstatic.com/s/tinos/v11/R0GUby9C7Xd7F2g6Wjdydw.ttf) format('truetype');
+}

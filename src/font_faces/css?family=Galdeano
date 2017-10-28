@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Galdeano';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Galdeano Regular'), local('Galdeano-Regular'), url(https://fonts.gstatic.com/s/galdeano/v7/xWfNF53zMVtUUmsSpUl10vesZW2xOQ-xsNqO47m55DA.ttf) format('truetype');
+}

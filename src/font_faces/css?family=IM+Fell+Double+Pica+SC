@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'IM Fell Double Pica SC';
+  font-style: normal;
+  font-weight: 400;
+  src: local('IM FELL Double Pica SC'), local('IM_FELL_Double_Pica_SC'), url(https://fonts.gstatic.com/s/imfelldoublepicasc/v7/jkrUtrLFpMw4ZazhfkKsG90vIvIF8L_BWCF3ZHhpTbk.ttf) format('truetype');
+}

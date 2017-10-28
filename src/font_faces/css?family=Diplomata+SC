@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Diplomata SC';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Diplomata SC'), local('DiplomataSC-Regular'), url(https://fonts.gstatic.com/s/diplomatasc/v6/JdVwAwfE1a_pahXjk5qpNonF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
+}

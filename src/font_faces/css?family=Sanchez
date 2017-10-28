@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Sanchez';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Sanchez'), local('Sanchez-Regular'), url(https://fonts.gstatic.com/s/sanchez/v5/Eh9ZVPLDFF2xhCIl_We4NA.ttf) format('truetype');
+}

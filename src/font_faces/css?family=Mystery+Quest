@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Mystery Quest';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Mystery Quest'), local('MysteryQuest'), url(https://fonts.gstatic.com/s/mysteryquest/v5/467jJvg0c7HgucvBB9PLDzmuEnbvkdF7vjbeHX60E38.ttf) format('truetype');
+}

@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Brawler';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Brawler Regular'), local('Brawler-Regular'), url(https://fonts.gstatic.com/s/brawler/v8/dUNrB5J6luCtowhEI_D1yw.ttf) format('truetype');
+}

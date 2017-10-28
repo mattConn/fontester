@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Rhodium Libre';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Rhodium Libre'), local('RhodiumLibre-Regular'), url(https://fonts.gstatic.com/s/rhodiumlibre/v2/Vxr7A4-xE2zsBDDI8BcseCbsRidxnYrfzLNRqJkHfFo.ttf) format('truetype');
+}

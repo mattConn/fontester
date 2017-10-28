@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Ruslan Display';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ruslan Display'), local('RuslanDisplay'), url(https://fonts.gstatic.com/s/ruslandisplay/v8/SREdhlyLNUfU1VssRBfs3uovftqZgo3QmYbo_O2Mv4Q.ttf) format('truetype');
+}

@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Spinnaker';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Spinnaker'), local('Spinnaker-Regular'), url(https://fonts.gstatic.com/s/spinnaker/v9/WxzDAY6mC9v3znSJEtCoW6CWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}

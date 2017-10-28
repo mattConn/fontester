@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Average';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Average Regular'), local('Average-Regular'), url(https://fonts.gstatic.com/s/average/v6/IA8jQA5GFnMtnG2oawAIjw.ttf) format('truetype');
+}

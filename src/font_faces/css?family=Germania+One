@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Germania One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Germania One'), local('GermaniaOne-Regular'), url(https://fonts.gstatic.com/s/germaniaone/v5/3_6AyUql_-FbDi1e68jHdInF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
+}

@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Angkor';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Angkor Regular'), local('Angkor-Regular'), url(https://fonts.gstatic.com/s/angkor/v10/DLpLgIS-8F10ecwKqCm95Q.ttf) format('truetype');
+}

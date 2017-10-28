@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Playfair Display SC';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Playfair Display SC'), local('PlayfairDisplaySC-Regular'), url(https://fonts.gstatic.com/s/playfairdisplaysc/v6/G0-tvBxd4eQRdwFKB8dRkXMiQ8bx8R67TKBblDxZ-bQ.ttf) format('truetype');
+}

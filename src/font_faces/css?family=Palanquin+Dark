@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Palanquin Dark';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Palanquin Dark Regular'), local('PalanquinDark-Regular'), url(https://fonts.gstatic.com/s/palanquindark/v3/PamTqrrgbBh_M3702w39rCv-QVJgSdmoqtsJFBiCrQ0.ttf) format('truetype');
+}

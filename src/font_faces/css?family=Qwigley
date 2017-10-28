@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Qwigley';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Qwigley'), local('Qwigley-Regular'), url(https://fonts.gstatic.com/s/qwigley/v7/e1i7YaSO_TVGtx3eMdiqaA.ttf) format('truetype');
+}

@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Marvel';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Marvel'), local('Marvel-Regular'), url(https://fonts.gstatic.com/s/marvel/v7/qaDmg_CNIuBGdKmH4z3spA.ttf) format('truetype');
+}

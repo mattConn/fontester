@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Dynalight';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Dynalight'), local('Dynalight-Regular'), url(https://fonts.gstatic.com/s/dynalight/v6/H8N28OeR1G4cL0Fdzv8eVKCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}

@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Monsieur La Doulaise';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Monsieur La Doulaise Regular'), local('MonsieurLaDoulaise-Regular'), url(https://fonts.gstatic.com/s/monsieurladoulaise/v6/IMAdMj6Eq9jZ46CPctFtMNz2T9EvN8iEaGRoPsKIUss.ttf) format('truetype');
+}

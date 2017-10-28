@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Shanti';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Shanti'), url(https://fonts.gstatic.com/s/shanti/v9/hodw9daEKChGhHiFVuhi_g.ttf) format('truetype');
+}

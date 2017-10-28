@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Petrona';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Petrona Regular'), local('Petrona-Regular'), url(https://fonts.gstatic.com/s/petrona/v6/hKhQVDB6L21E62V5H9YNYQ.ttf) format('truetype');
+}

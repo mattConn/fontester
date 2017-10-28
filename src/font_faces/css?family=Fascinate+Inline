@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Fascinate Inline';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Fascinate Inline'), local('FascinateInline-Regular'), url(https://fonts.gstatic.com/s/fascinateinline/v7/lRguYfMfWArflkm5aOQ5QK3zAIRJwSgnq8SMHmx0gDM.ttf) format('truetype');
+}

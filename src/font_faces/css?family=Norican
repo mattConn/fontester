@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Norican';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Norican Regular'), local('Norican-Regular'), url(https://fonts.gstatic.com/s/norican/v5/nvC8O-FhgKFS_js6E2VB9w.ttf) format('truetype');
+}

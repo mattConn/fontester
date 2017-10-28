@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Sacramento';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Sacramento'), local('Sacramento-Regular'), url(https://fonts.gstatic.com/s/sacramento/v5/WFDkXpubrEwopJnSlHV6CC3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+}

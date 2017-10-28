@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Gruppo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Gruppo'), url(https://fonts.gstatic.com/s/gruppo/v8/uU5IFiQZ8WKPhrRfLBLURw.ttf) format('truetype');
+}

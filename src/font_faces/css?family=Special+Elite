@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Special Elite';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Special Elite Regular'), local('SpecialElite-Regular'), url(https://fonts.gstatic.com/s/specialelite/v8/9-wW4zu3WNoD5Fjka35JmybsRidxnYrfzLNRqJkHfFo.ttf) format('truetype');
+}

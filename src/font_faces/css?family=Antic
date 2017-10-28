@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Antic';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Antic Regular'), local('Antic-Regular'), url(https://fonts.gstatic.com/s/antic/v9/oPxV1dkj-zBXVn8gGPEP7w.ttf) format('truetype');
+}

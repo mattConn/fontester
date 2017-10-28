@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Short Stack';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Short Stack'), local('ShortStack'), url(https://fonts.gstatic.com/s/shortstack/v7/6Lbgh4PDdLpSiP41rQoGa50EAVxt0G0biEntp43Qt6E.ttf) format('truetype');
+}

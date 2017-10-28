@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Ranga';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ranga Regular'), local('Ranga-Regular'), url(https://fonts.gstatic.com/s/ranga/v3/t5ZCvzMKnyUwtnascBWPhw.ttf) format('truetype');
+}

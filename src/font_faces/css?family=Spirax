@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Spirax';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Spirax-Regular'), url(https://fonts.gstatic.com/s/spirax/v6/z6-p35VjWqOyUdWKJSzD1w.ttf) format('truetype');
+}

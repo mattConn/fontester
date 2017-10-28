@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Fresca';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Fresca-Regular'), url(https://fonts.gstatic.com/s/fresca/v6/d1iL81LLcMQNnb74Q4SUHw.ttf) format('truetype');
+}

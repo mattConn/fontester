@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Khmer';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Khmer'), url(https://fonts.gstatic.com/s/khmer/v10/vWaBJIbaQuBNz02ALIKJ3A.ttf) format('truetype');
+}

@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Miss Fajardose';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Miss Fajardose Regular'), local('MissFajardose-Regular'), url(https://fonts.gstatic.com/s/missfajardose/v7/WcXjlQPKn6nBfr8LY3ktNvcMLt8J94hnsPLv6MMkBMk.ttf) format('truetype');
+}

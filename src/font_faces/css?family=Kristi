@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Kristi';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Kristi Regular'), local('Kristi-Regular'), url(https://fonts.gstatic.com/s/kristi/v9/EBOxo6OoarykMRxohIxAtw.ttf) format('truetype');
+}

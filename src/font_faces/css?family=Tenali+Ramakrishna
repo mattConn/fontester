@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Tenali Ramakrishna';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Tenali Ramakrishna'), local('TenaliRamakrishna'), url(https://fonts.gstatic.com/s/tenaliramakrishna/v4/M0nTmDqv2M7AGoGh-c946Bbrcvi9pEMXlk4CfMsjEYk.ttf) format('truetype');
+}

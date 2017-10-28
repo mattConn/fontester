@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Biryani';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Biryani Regular'), local('Biryani-Regular'), url(https://fonts.gstatic.com/s/biryani/v3/E2eZ6gDqHsQctcgNMH1j7w.ttf) format('truetype');
+}

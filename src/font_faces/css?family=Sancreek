@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Sancreek';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Sancreek Regular'), local('Sancreek-Regular'), url(https://fonts.gstatic.com/s/sancreek/v8/wB-TXA-s19SjNseJkwwU3fesZW2xOQ-xsNqO47m55DA.ttf) format('truetype');
+}

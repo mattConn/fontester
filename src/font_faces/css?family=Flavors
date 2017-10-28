@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Flavors';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Flavors'), local('Flavors-Regular'), url(https://fonts.gstatic.com/s/flavors/v6/Sfnl6OrJsW3KTMtCN8dxaQ.ttf) format('truetype');
+}

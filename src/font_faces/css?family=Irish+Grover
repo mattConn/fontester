@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Irish Grover';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Irish Grover Regular'), local('IrishGrover-Regular'), url(https://fonts.gstatic.com/s/irishgrover/v8/kUp7uUPooL-KsLGzeVJbBInF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
+}

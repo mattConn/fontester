@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Metal';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Metal'), url(https://fonts.gstatic.com/s/metal/v10/zA3UOP13ooQcxjv04BZX5g.ttf) format('truetype');
+}

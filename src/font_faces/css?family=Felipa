@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Felipa';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Felipa'), local('Felipa-Regular'), url(https://fonts.gstatic.com/s/felipa/v5/hM5bgqqTw1m1RPvoMcssTw.ttf) format('truetype');
+}

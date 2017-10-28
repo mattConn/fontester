@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Skranji';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Skranji'), url(https://fonts.gstatic.com/s/skranji/v5/FHc6rL7AhdTIQxDmNZjEHw.ttf) format('truetype');
+}

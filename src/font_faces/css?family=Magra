@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Magra';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Magra'), url(https://fonts.gstatic.com/s/magra/v5/9Un71ABfeNOHeQITcqWzew.ttf) format('truetype');
+}

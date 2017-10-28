@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Fasthand';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Fasthand'), local('Fasthand-Regular'), url(https://fonts.gstatic.com/s/fasthand/v8/6XAagHH_KmpZL67wTvsETQ.ttf) format('truetype');
+}

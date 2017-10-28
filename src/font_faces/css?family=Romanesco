@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Romanesco';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Romanesco'), local('Romanesco-Regular'), url(https://fonts.gstatic.com/s/romanesco/v6/ulV2bu0ivcWDuAzM7oh4XaCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}

@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Jaldi';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Jaldi'), local('Jaldi-Regular'), url(https://fonts.gstatic.com/s/jaldi/v3/xcNgnouLURBjp4DGKhb8Lw.ttf) format('truetype');
+}

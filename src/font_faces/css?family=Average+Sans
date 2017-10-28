@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Average Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Average Sans Regular'), local('AverageSans-Regular'), url(https://fonts.gstatic.com/s/averagesans/v6/dnU3R-5A_43y5bIyLztPsYnF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
+}

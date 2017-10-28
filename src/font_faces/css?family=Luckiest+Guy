@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Luckiest Guy';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Luckiest Guy Regular'), local('LuckiestGuy-Regular'), url(https://fonts.gstatic.com/s/luckiestguy/v8/5718gH8nDy3hFVihOpkY5InF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
+}

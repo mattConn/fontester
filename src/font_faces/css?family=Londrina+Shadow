@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Londrina Shadow';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Londrina Shadow Regular'), local('LondrinaShadow-Regular'), url(https://fonts.gstatic.com/s/londrinashadow/v6/dNYuzPS_7eYgXFJBzMoKdaOkbOmksxIvkTpnFpf9ZWE.ttf) format('truetype');
+}

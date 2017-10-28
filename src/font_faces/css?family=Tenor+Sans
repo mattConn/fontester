@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Tenor Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Tenor Sans'), local('TenorSans'), url(https://fonts.gstatic.com/s/tenorsans/v8/pH9G9MQ0Q-aF9ThG3ok-ty3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+}

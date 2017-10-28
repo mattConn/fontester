@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Coustard';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Coustard Regular'), local('Coustard-Regular'), url(https://fonts.gstatic.com/s/coustard/v8/A3DqZ8KQbto2lGg0IL8SIvesZW2xOQ-xsNqO47m55DA.ttf) format('truetype');
+}

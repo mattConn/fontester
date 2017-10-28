@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Kdam Thmor';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Kdam Thmor'), local('KdamThmor'), url(https://fonts.gstatic.com/s/kdamthmor/v4/otCdP6UU-VBIrBfVDWBQJ_esZW2xOQ-xsNqO47m55DA.ttf) format('truetype');
+}

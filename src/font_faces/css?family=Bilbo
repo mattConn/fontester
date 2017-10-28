@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Bilbo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Bilbo Regular'), local('Bilbo-Regular'), url(https://fonts.gstatic.com/s/bilbo/v7/JqdbkZoDKENg_4351JtArw.ttf) format('truetype');
+}

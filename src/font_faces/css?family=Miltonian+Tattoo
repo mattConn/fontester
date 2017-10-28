@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Miltonian Tattoo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Miltonian Tattoo'), local('MiltonianTattoo-Regular'), url(https://fonts.gstatic.com/s/miltoniantattoo/v12/1oU_8OGYwW46eh02YHydn3yDsJ6czMRm9Ofn-z2oR7A.ttf) format('truetype');
+}

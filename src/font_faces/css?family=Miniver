@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Miniver';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Miniver'), url(https://fonts.gstatic.com/s/miniver/v6/zM8nIeM_8LaPANJa1czFbg.ttf) format('truetype');
+}

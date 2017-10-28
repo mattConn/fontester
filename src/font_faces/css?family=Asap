@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Asap';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Asap Regular'), local('Asap-Regular'), url(https://fonts.gstatic.com/s/asap/v7/-KZsao_xwBpcExaHoPH8_w.ttf) format('truetype');
+}

@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Federo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Federo'), local('Federo-Regular'), url(https://fonts.gstatic.com/s/federo/v9/lyIIJ-Qmb89iSKTPVm5SGw.ttf) format('truetype');
+}

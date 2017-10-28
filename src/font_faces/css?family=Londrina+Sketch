@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Londrina Sketch';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Londrina Sketch Regular'), local('LondrinaSketch-Regular'), url(https://fonts.gstatic.com/s/londrinasketch/v6/p7Ai06aT1Ycp_D2fyE3z63eO7EMSL5l8Ppwuor2Ykkw.ttf) format('truetype');
+}

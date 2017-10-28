@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Balthazar';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Balthazar Regular'), local('Balthazar-Regular'), url(https://fonts.gstatic.com/s/balthazar/v6/E9s_OrHc1N8XyvXr2y-jyqCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}

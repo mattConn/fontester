@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Rammetto One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Rammetto One Regular'), local('RammettoOne-Regular'), url(https://fonts.gstatic.com/s/rammettoone/v6/mh0uQ1tV8QgSx9v_KyEYPInF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
+}

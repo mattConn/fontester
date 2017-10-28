@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Bangers';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Bangers Regular'), local('Bangers-Regular'), url(https://fonts.gstatic.com/s/bangers/v10/_Kq7Xa_aavBxPnttrBeaoQ.ttf) format('truetype');
+}

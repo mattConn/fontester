@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Mr Bedfort';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Mr Bedfort'), local('MrBedfort-Regular'), url(https://fonts.gstatic.com/s/mrbedfort/v6/H0TolBttBLTEH8l2I5ZOUC3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+}

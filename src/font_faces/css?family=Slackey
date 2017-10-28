@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Slackey';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Slackey Regular'), local('Slackey-Regular'), url(https://fonts.gstatic.com/s/slackey/v8/bJZDrYrGx8atJRHR9DVdqg.ttf) format('truetype');
+}

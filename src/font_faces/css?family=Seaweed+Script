@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Seaweed Script';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Seaweed Script'), local('SeaweedScript-Regular'), url(https://fonts.gstatic.com/s/seaweedscript/v5/eorWAPpOvvWrPw5IHwE60C5FJMZltoAAwO2fP7iHu2o.ttf) format('truetype');
+}

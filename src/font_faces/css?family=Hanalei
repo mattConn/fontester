@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Hanalei';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Hanalei'), local('Hanalei-Regular'), url(https://fonts.gstatic.com/s/hanalei/v7/P8Wofsp326v1socjZy6tSA.ttf) format('truetype');
+}

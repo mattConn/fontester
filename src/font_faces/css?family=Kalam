@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Kalam';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Kalam'), local('Kalam-Regular'), url(https://fonts.gstatic.com/s/kalam/v8/TR5-UVog3MeV57nRQJPcOA.ttf) format('truetype');
+}

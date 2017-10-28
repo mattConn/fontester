@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Graduate';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Graduate'), local('Graduate-Regular'), url(https://fonts.gstatic.com/s/graduate/v5/ltWK80Pi-ig0sR5X-RaI7vesZW2xOQ-xsNqO47m55DA.ttf) format('truetype');
+}

@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Lancelot';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lancelot'), url(https://fonts.gstatic.com/s/lancelot/v7/5LBg2di2GBv3TBWpNV0NGvesZW2xOQ-xsNqO47m55DA.ttf) format('truetype');
+}

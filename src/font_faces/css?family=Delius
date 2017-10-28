@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Delius';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Delius-Regular'), url(https://fonts.gstatic.com/s/delius/v7/geRI9Tt6_9xDj8YKwTdHyA.ttf) format('truetype');
+}

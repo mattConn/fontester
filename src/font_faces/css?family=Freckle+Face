@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Freckle Face';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Freckle Face'), local('FreckleFace-Regular'), url(https://fonts.gstatic.com/s/freckleface/v5/7-B8j9BPJgazdHIGqPNv84nF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
+}

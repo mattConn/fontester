@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Dhurjati';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Dhurjati'), url(https://fonts.gstatic.com/s/dhurjati/v5/1cR3pnpU03iNZcPSIKuXXfesZW2xOQ-xsNqO47m55DA.ttf) format('truetype');
+}

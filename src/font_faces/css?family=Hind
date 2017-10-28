@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Hind';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Hind Regular'), local('Hind-Regular'), url(https://fonts.gstatic.com/s/hind/v8/nz5dxQAyXAGLFHmmJlZXFg.ttf) format('truetype');
+}

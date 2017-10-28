@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Cambo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Cambo'), local('Cambo-Regular'), url(https://fonts.gstatic.com/s/cambo/v6/euSQOlxAUmD9bux1xIJgHg.ttf) format('truetype');
+}

@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Caveat Brush';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Caveat Brush'), local('CaveatBrush-Regular'), url(https://fonts.gstatic.com/s/caveatbrush/v3/_d7bgsk3hfC4DXnUEeYKs4nF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
+}

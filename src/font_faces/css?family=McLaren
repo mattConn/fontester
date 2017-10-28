@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'McLaren';
+  font-style: normal;
+  font-weight: 400;
+  src: local('McLaren'), local('McLaren-Regular'), url(https://fonts.gstatic.com/s/mclaren/v5/-P7NsxRFppnupVr6yhftQA.ttf) format('truetype');
+}

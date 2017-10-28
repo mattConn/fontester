@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Radley';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Radley Regular'), local('Radley-Regular'), url(https://fonts.gstatic.com/s/radley/v12/oYPm6FM24pD5d8aNal8WhQ.ttf) format('truetype');
+}

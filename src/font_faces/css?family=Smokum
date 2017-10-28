@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Smokum';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Smokum Regular'), local('Smokum-Regular'), url(https://fonts.gstatic.com/s/smokum/v8/TvHkUw3qOerxfXEJsf4ZKg.ttf) format('truetype');
+}

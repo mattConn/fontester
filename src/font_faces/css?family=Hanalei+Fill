@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Hanalei Fill';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Hanalei Fill'), local('HanaleiFill-Regular'), url(https://fonts.gstatic.com/s/hanaleifill/v6/5uPeWLnaDdtm4UBG26Ds6InF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
+}

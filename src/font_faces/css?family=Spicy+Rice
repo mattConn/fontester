@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Spicy Rice';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Spicy Rice'), local('SpicyRice-Regular'), url(https://fonts.gstatic.com/s/spicyrice/v6/xwdhYK3y7stx4zcy_MQ1tS3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+}

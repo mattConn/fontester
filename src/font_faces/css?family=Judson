@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Judson';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Judson Regular'), local('Judson-Regular'), url(https://fonts.gstatic.com/s/judson/v10/XQ5JzVrW2GD-d998r4wF5A.ttf) format('truetype');
+}

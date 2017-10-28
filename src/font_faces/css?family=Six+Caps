@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Six Caps';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Six Caps'), local('SixCaps'), url(https://fonts.gstatic.com/s/sixcaps/v8/o_4b_kcfA7KqUo2NQLuC6PesZW2xOQ-xsNqO47m55DA.ttf) format('truetype');
+}

@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Lemon';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lemon Regular'), local('Lemon-Regular'), url(https://fonts.gstatic.com/s/lemon/v6/WRZq1AYYveIOSocZAeAyAw.ttf) format('truetype');
+}

@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Rambla';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Rambla'), local('Rambla-Regular'), url(https://fonts.gstatic.com/s/rambla/v5/-_kCMgs_FEfLSA5TpiWlKg.ttf) format('truetype');
+}

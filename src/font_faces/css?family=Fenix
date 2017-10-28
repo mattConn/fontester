@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Fenix';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Fenix'), local('Fenix-Regular'), url(https://fonts.gstatic.com/s/fenix/v5/bcplnphK3jNGowiu9YNSfA.ttf) format('truetype');
+}

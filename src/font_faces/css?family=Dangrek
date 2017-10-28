@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Dangrek';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Dangrek'), url(https://fonts.gstatic.com/s/dangrek/v9/LOaFhBT-EHNxZjV8DAW_ew.ttf) format('truetype');
+}

@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Koulen';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Koulen'), url(https://fonts.gstatic.com/s/koulen/v11/AAYOK8RSRO7FTskTzFuzNw.ttf) format('truetype');
+}

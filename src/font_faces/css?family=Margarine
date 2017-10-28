@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Margarine';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Margarine'), local('Margarine-Regular'), url(https://fonts.gstatic.com/s/margarine/v6/CmR2XZ3h63SwGzHu2hppFqCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}

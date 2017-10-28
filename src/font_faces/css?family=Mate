@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Mate';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Mate-Regular'), url(https://fonts.gstatic.com/s/mate/v6/O3zV_88y5R58JOkt-IGJYQ.ttf) format('truetype');
+}

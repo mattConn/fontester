@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Codystar';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Codystar'), url(https://fonts.gstatic.com/s/codystar/v5/cAr9iPh4eRYEbqShfXOxP_esZW2xOQ-xsNqO47m55DA.ttf) format('truetype');
+}

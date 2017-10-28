@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Plaster';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Plaster'), local('Plaster-Regular'), url(https://fonts.gstatic.com/s/plaster/v9/LNKpoz4jj8K8rmy0g0bLRw.ttf) format('truetype');
+}

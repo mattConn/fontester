@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Gabriela';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Gabriela Regular'), local('Gabriela-Regular'), url(https://fonts.gstatic.com/s/gabriela/v6/m8JJYqAhymuJ2Zb4xZ3F8fesZW2xOQ-xsNqO47m55DA.ttf) format('truetype');
+}

@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Purple Purse';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Purple Purse'), local('PurplePurse-Regular'), url(https://fonts.gstatic.com/s/purplepurse/v6/Q5heFUrdmei9axbMITxxxYnF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
+}

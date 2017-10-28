@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Kavoon';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Kavoon'), local('Kavoon-Regular'), url(https://fonts.gstatic.com/s/kavoon/v6/PMzOnY7AcdtckHTJS0S3dQ.ttf) format('truetype');
+}

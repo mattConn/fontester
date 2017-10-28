@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Oregano';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Oregano'), local('Oregano-Regular'), url(https://fonts.gstatic.com/s/oregano/v5/GaqSW5oe63mN1W7SfZsb3A.ttf) format('truetype');
+}

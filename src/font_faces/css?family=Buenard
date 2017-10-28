@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Buenard';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Buenard Regular'), local('Buenard-Regular'), url(https://fonts.gstatic.com/s/buenard/v9/UUYHasP8umGDjV-yeZf27Q.ttf) format('truetype');
+}

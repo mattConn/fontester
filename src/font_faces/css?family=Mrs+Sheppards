@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Mrs Sheppards';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Mrs Sheppards Regular'), local('MrsSheppards-Regular'), url(https://fonts.gstatic.com/s/mrssheppards/v6/2WFsWMV3VUeCz6UVH7UjCoB9a16epZVaac-gfobfbfA.ttf) format('truetype');
+}

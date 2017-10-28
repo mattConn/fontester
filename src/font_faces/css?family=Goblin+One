@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Goblin One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Goblin One'), local('GoblinOne'), url(https://fonts.gstatic.com/s/goblinone/v7/oMm__6Fu4fp1Uf80vOEkgC3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+}

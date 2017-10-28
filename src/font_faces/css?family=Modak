@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Modak';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Modak'), url(https://fonts.gstatic.com/s/modak/v3/OWyLSw61WDW78-oYbMpt4w.ttf) format('truetype');
+}

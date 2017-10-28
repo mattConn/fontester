@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Rajdhani';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Rajdhani Regular'), local('Rajdhani-Regular'), url(https://fonts.gstatic.com/s/rajdhani/v7/DG8mXG-5TR8cZWqlGcHP5PesZW2xOQ-xsNqO47m55DA.ttf) format('truetype');
+}

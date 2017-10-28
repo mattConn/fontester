@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Laila';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Laila Regular'), local('Laila-Regular'), url(https://fonts.gstatic.com/s/laila/v4/U1mcJ5nD5aGNUwKhGxWJSw.ttf) format('truetype');
+}

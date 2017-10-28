@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Andika';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Andika Regular'), local('Andika-Regular'), url(https://fonts.gstatic.com/s/andika/v9/f6ETJtZ3CUmBRLiPKYV3VQ.ttf) format('truetype');
+}

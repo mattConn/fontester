@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Kantumruy';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Kantumruy'), url(https://fonts.gstatic.com/s/kantumruy/v4/kQfXNYElQxr5dS8FyjD39Q.ttf) format('truetype');
+}

@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Princess Sofia';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Princess Sofia'), local('PrincessSofia'), url(https://fonts.gstatic.com/s/princesssofia/v5/8g5l8r9BM0t1QsXLTajDe64AS0QnXBppPPVySeuncSg.ttf) format('truetype');
+}

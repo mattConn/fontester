@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Maiden Orange';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Maiden Orange Regular'), local('MaidenOrange-Regular'), url(https://fonts.gstatic.com/s/maidenorange/v8/ZhKIA2SPisEwdhW7g0RUWibsRidxnYrfzLNRqJkHfFo.ttf) format('truetype');
+}

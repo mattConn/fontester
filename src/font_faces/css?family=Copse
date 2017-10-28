@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Copse';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Copse'), url(https://fonts.gstatic.com/s/copse/v7/edYpk-Td-Lz5tVC6CefvWQ.ttf) format('truetype');
+}

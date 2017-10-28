@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Forum';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Forum'), url(https://fonts.gstatic.com/s/forum/v8/WIqlIn7uo_Vma4QAUqf-Mw.ttf) format('truetype');
+}

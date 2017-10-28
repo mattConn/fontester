@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Italiana';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Italiana'), local('Italiana-Regular'), url(https://fonts.gstatic.com/s/italiana/v6/cyoET12_n3_FXMnTJZssYvesZW2xOQ-xsNqO47m55DA.ttf) format('truetype');
+}

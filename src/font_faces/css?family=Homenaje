@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Homenaje';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Homenaje Regular'), local('Homenaje-Regular'), url(https://fonts.gstatic.com/s/homenaje/v7/74rNkO0_718VQPTEmPNsIvesZW2xOQ-xsNqO47m55DA.ttf) format('truetype');
+}

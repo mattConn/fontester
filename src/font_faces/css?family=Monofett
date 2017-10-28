@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Monofett';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Monofett'), url(https://fonts.gstatic.com/s/monofett/v7/BezoWS-9nng_g31KmAteQ_esZW2xOQ-xsNqO47m55DA.ttf) format('truetype');
+}

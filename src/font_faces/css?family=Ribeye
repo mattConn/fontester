@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Ribeye';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ribeye'), local('Ribeye-Regular'), url(https://fonts.gstatic.com/s/ribeye/v6/64-ic_f08_w1tj6RakxRyQ.ttf) format('truetype');
+}

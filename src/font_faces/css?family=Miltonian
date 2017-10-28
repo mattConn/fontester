@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Miltonian';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Miltonian'), local('Miltonian-Regular'), url(https://fonts.gstatic.com/s/miltonian/v11/DVUl6K_XDo9HSLlx2JoxNaCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}

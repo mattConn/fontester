@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Josefin Slab';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Josefin Slab Regular'), local('JosefinSlab-Regular'), url(https://fonts.gstatic.com/s/josefinslab/v8/46aYWdgz-1oFX11flmyEfYnF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
+}

@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Ramaraja';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ramaraja'), url(https://fonts.gstatic.com/s/ramaraja/v2/ygJ3Olvb79OC69cxzp8iFvesZW2xOQ-xsNqO47m55DA.ttf) format('truetype');
+}

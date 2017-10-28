@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'NTR';
+  font-style: normal;
+  font-weight: 400;
+  src: local('NTR'), url(https://fonts.gstatic.com/s/ntr/v5/smxIARxmTn5LFWotpSIBOA.ttf) format('truetype');
+}

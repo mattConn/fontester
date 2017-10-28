@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Siemreap';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Siemreap'), url(https://fonts.gstatic.com/s/siemreap/v10/JSK-mOIsXwxo-zE9XDDl_g.ttf) format('truetype');
+}

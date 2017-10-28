@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Unlock';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Unlock Regular'), local('Unlock-Regular'), url(https://fonts.gstatic.com/s/unlock/v7/27W3Uc8-ZWN959ABhyS_bQ.ttf) format('truetype');
+}

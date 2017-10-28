@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Inknut Antiqua';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Inknut Antiqua Regular'), local('InknutAntiqua-Regular'), url(https://fonts.gstatic.com/s/inknutantiqua/v3/VlmmTfOrxr3HfcnhMueX9QKZaxxWfFldPDbIGRdOGHU.ttf) format('truetype');
+}

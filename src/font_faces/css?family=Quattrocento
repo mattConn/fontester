@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Quattrocento';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Quattrocento'), url(https://fonts.gstatic.com/s/quattrocento/v9/WZDISdyil4HsmirlOdBRFInF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
+}

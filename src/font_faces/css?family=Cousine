@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Cousine';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Cousine Regular'), local('Cousine-Regular'), url(https://fonts.gstatic.com/s/cousine/v12/DwTQUBZUm7p0EqFjmSeK4w.ttf) format('truetype');
+}

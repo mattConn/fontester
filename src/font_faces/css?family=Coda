@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Coda';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Coda Regular'), local('Coda-Regular'), url(https://fonts.gstatic.com/s/coda/v13/KzHY9N-PIagGI86CpWfnZA.ttf) format('truetype');
+}

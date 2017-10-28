@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Nova Slim';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Nova Slim'), local('NovaSlim'), url(https://fonts.gstatic.com/s/novaslim/v9/UNFpI3z6a_6qSkg2RkIaZ6CWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}

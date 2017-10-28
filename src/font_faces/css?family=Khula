@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Khula';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Khula Regular'), local('Khula-Regular'), url(https://fonts.gstatic.com/s/khula/v3/G16s96mQ_gAXTGkBs2CnqQ.ttf) format('truetype');
+}

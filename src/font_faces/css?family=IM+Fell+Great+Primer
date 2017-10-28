@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'IM Fell Great Primer';
+  font-style: normal;
+  font-weight: 400;
+  src: local('IM FELL Great Primer Roman'), local('IM_FELL_Great_Primer_Roman'), url(https://fonts.gstatic.com/s/imfellgreatprimer/v7/AL8ALGNthei20f9Cu3e93qZXHtZ0Z62-HtyJa8iUgDI.ttf) format('truetype');
+}

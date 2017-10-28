@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Rozha One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Rozha One Regular'), local('RozhaOne-Regular'), url(https://fonts.gstatic.com/s/rozhaone/v4/UYFFPwb2ZMrchIuzxLAWb6CWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}

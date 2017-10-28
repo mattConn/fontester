@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Englebert';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Englebert'), local('Englebert-Regular'), url(https://fonts.gstatic.com/s/englebert/v5/5vhE18ztcHRcsYmBaZ6CaKCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}

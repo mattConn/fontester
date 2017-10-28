@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Oldenburg';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Oldenburg'), local('Oldenburg-Regular'), url(https://fonts.gstatic.com/s/oldenburg/v5/CRS5ubi7Czjub7bFdKPY-aCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}

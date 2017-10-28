@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Gudea';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Gudea'), url(https://fonts.gstatic.com/s/gudea/v5/TJBgbd7QSbnZkQrnM77kmw.ttf) format('truetype');
+}

@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Arimo Regular'), local('Arimo-Regular'), url(https://fonts.gstatic.com/s/arimo/v11/BkZwJXYnumPMepfEA344yQ.ttf) format('truetype');
+}

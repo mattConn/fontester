@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Artifika';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Artifika Regular'), local('Artifika-Regular'), url(https://fonts.gstatic.com/s/artifika/v8/z0sjSaXjDxxgrMTOLI1lSfesZW2xOQ-xsNqO47m55DA.ttf) format('truetype');
+}

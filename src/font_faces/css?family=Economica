@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Economica';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Economica'), local('Economica-Regular'), url(https://fonts.gstatic.com/s/economica/v5/jObgDQiPUtmACAaaK3pMG6CWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}

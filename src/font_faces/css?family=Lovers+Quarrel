@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Lovers Quarrel';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lovers Quarrel'), local('LoversQuarrel-Regular'), url(https://fonts.gstatic.com/s/loversquarrel/v5/gipdZ8b7pKb89MzQLAtJHFt2Ly3LHbCkhKMo5S7tnV8.ttf) format('truetype');
+}

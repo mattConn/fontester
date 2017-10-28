@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Chewy';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Chewy Regular'), local('Chewy-Regular'), url(https://fonts.gstatic.com/s/chewy/v9/9pHJyFOcO5WaMZJw9XnkAw.ttf) format('truetype');
+}

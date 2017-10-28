@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Joti One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Joti One'), local('JotiOne-Regular'), url(https://fonts.gstatic.com/s/jotione/v5/XiXBM8y3L5iol1funD8Z8fesZW2xOQ-xsNqO47m55DA.ttf) format('truetype');
+}

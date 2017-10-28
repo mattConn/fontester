@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Suranna';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Suranna'), url(https://fonts.gstatic.com/s/suranna/v5/JCegWkR5uIQaYRICX2VNbQ.ttf) format('truetype');
+}

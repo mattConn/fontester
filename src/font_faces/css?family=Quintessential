@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Quintessential';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Quintessential'), local('Quintessential-Regular'), url(https://fonts.gstatic.com/s/quintessential/v5/mmk6ioesnTrEky_Zb92E5gd8ZphFIbDoTMp_nPGYQR4.ttf) format('truetype');
+}

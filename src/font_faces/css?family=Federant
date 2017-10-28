@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Federant';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Federant'), local('Federant-Regular'), url(https://fonts.gstatic.com/s/federant/v9/Tfrjvw7If6C2rMCF58AATPesZW2xOQ-xsNqO47m55DA.ttf) format('truetype');
+}

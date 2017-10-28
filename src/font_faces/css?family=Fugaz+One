@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Fugaz One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Fugaz One'), local('FugazOne-Regular'), url(https://fonts.gstatic.com/s/fugazone/v7/foh--NswBHNPbRHy7yEyyKCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}

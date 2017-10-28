@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Puritan';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Puritan Regular'), local('Puritan-Regular'), url(https://fonts.gstatic.com/s/puritan/v9/iSKzJuATi2QbcRz6wSY7rg.ttf) format('truetype');
+}

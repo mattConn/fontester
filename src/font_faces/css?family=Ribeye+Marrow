@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Ribeye Marrow';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ribeye Marrow'), local('RibeyeMarrow-Regular'), url(https://fonts.gstatic.com/s/ribeyemarrow/v7/q7cBSA-4ErAXBCDFPrhlY1NMrJ9cD4pYrSOTflG6xf4.ttf) format('truetype');
+}

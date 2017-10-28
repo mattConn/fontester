@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Overlock SC';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Overlock SC'), local('OverlockSC-Regular'), url(https://fonts.gstatic.com/s/overlocksc/v6/cFrEOzZWUct6fhBu_bFdkp0EAVxt0G0biEntp43Qt6E.ttf) format('truetype');
+}

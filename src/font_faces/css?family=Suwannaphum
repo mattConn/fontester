@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Suwannaphum';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Suwannaphum Regular'), local('Suwannaphum-Regular'), url(https://fonts.gstatic.com/s/suwannaphum/v11/1jIPOyXied3T79GCnSlCN6CWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}

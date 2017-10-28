@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Montserrat Alternates';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Montserrat Alternates Regular'), local('MontserratAlternates-Regular'), url(https://fonts.gstatic.com/s/montserratalternates/v8/z2n1Sjxk9souK3HCtdHukgnkfjG14KscmNg0xC38TkM.ttf) format('truetype');
+}

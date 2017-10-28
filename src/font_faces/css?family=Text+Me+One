@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Text Me One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Text Me One'), local('TextMeOne-Regular'), url(https://fonts.gstatic.com/s/textmeone/v5/PqZhD5HyRPwtzI5fOKmj9J0EAVxt0G0biEntp43Qt6E.ttf) format('truetype');
+}

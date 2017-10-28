@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Enriqueta';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Enriqueta-Regular'), url(https://fonts.gstatic.com/s/enriqueta/v6/-KTKVm0Mx9ZCRXL9CXVIbaCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}

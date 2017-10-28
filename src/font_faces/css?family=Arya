@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Arya';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Arya Regular'), local('Arya-Regular'), url(https://fonts.gstatic.com/s/arya/v3/6O-z5Yh116br4RQpbC3V7Q.ttf) format('truetype');
+}

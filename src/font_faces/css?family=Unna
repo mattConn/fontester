@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Unna';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Unna Regular'), local('Unna-Regular'), url(https://fonts.gstatic.com/s/unna/v10/WWfO_DnT-ISVpCpiKSv2sQ.ttf) format('truetype');
+}

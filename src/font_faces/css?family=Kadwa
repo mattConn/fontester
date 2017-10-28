@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Kadwa';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Kadwa'), local('Kadwa-Regular'), url(https://fonts.gstatic.com/s/kadwa/v2/jOr-orQd5YVjsjxLH4Y6Ng.ttf) format('truetype');
+}

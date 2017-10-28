@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Freehand';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Freehand'), url(https://fonts.gstatic.com/s/freehand/v9/uEBQxvA0lnn_BrD6krlxMw.ttf) format('truetype');
+}

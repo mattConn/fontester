@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Cinzel';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Cinzel Regular'), local('Cinzel-Regular'), url(https://fonts.gstatic.com/s/cinzel/v7/Hm1qjDlZpOdVXoa-QGE7_w.ttf) format('truetype');
+}

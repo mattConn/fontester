@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Ledger';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ledger'), local('Ledger-Regular'), url(https://fonts.gstatic.com/s/ledger/v5/nESxPLkUJBbOEvteDc1rMw.ttf) format('truetype');
+}

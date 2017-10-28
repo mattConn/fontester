@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Linden Hill';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Linden Hill Regular'), local('LindenHill-Regular'), url(https://fonts.gstatic.com/s/lindenhill/v7/U7EN5b80-1Cl4i2bLpCYkp0EAVxt0G0biEntp43Qt6E.ttf) format('truetype');
+}

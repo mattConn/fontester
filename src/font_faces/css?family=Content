@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Content';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Content'), url(https://fonts.gstatic.com/s/content/v9/l8qaLjygvOkDEU2G6-cjfQ.ttf) format('truetype');
+}

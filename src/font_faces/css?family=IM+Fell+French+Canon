@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'IM Fell French Canon';
+  font-style: normal;
+  font-weight: 400;
+  src: local('IM FELL French Canon Roman'), local('IM_FELL_French_Canon_Roman'), url(https://fonts.gstatic.com/s/imfellfrenchcanon/v7/iKB0WL1BagSpNPz3NLMdsKiovWQmSXO7IT6rGBIdh9c.ttf) format('truetype');
+}

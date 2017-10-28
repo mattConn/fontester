@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Creepster';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Creepster'), local('Creepster-Regular'), url(https://fonts.gstatic.com/s/creepster/v6/un014as1qOcrVg1hrkn_UaCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}

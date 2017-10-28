@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Snippet';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Snippet'), url(https://fonts.gstatic.com/s/snippet/v7/55gTuvBwF0Wg7V2dgeeA_w.ttf) format('truetype');
+}

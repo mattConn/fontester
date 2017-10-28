@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Asset';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Asset Regular'), local('Asset-Regular'), url(https://fonts.gstatic.com/s/asset/v8/h1rK36Q0eIQadG8NLDRuVQ.ttf) format('truetype');
+}

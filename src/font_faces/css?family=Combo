@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Combo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Combo'), local('Combo-Regular'), url(https://fonts.gstatic.com/s/combo/v6/LOqTJcEG3Q87INQ6SedZFQ.ttf) format('truetype');
+}

@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Port Lligat Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Port Lligat Sans'), local('PortLligatSans-Regular'), url(https://fonts.gstatic.com/s/portlligatsans/v6/CUEdhRk7oC7up0p6t0g4P1McZM9Np4V_-0g4HTlIAXE.ttf) format('truetype');
+}

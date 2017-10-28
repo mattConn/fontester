@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Lateef';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lateef'), url(https://fonts.gstatic.com/s/lateef/v11/QjtI5TzE12U_azkbFRuf3w.ttf) format('truetype');
+}

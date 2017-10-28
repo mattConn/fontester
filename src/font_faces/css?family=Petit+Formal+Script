@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Petit Formal Script';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Petit Formal Script'), local('PetitFormalScript-Regular'), url(https://fonts.gstatic.com/s/petitformalscript/v5/OEZwr2-ovBsq2n3ACCKoEhor_9OcAD2uH5X7Y8Zwvb4.ttf) format('truetype');
+}

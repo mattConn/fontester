@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Volkhov';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Volkhov Regular'), local('Volkhov-Regular'), url(https://fonts.gstatic.com/s/volkhov/v9/uk1C5e7mNyA0JcFqyN2lwQ.ttf) format('truetype');
+}

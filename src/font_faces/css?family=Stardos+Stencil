@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Stardos Stencil';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Stardos Stencil Regular'), local('StardosStencil-Regular'), url(https://fonts.gstatic.com/s/stardosstencil/v7/ygEOyTW9a6u4fi4OXEZeTKx4dljS8LgdW1vxXN8xI8w.ttf) format('truetype');
+}

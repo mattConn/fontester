@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Stint Ultra Expanded';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Stint Ultra Expanded'), local('StintUltraExpanded-Regular'), url(https://fonts.gstatic.com/s/stintultraexpanded/v5/FeigX-wDDgHMCKuhekhedW0BHiMun-z7OGO_nw4Vd5c.ttf) format('truetype');
+}

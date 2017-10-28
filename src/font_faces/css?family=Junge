@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Junge';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Junge'), local('Junge-Regular'), url(https://fonts.gstatic.com/s/junge/v5/wh2PLWhxorCuNQKW1uOhrw.ttf) format('truetype');
+}

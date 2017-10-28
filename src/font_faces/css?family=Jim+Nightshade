@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Jim Nightshade';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Jim Nightshade'), local('JimNightshade-Regular'), url(https://fonts.gstatic.com/s/jimnightshade/v5/_n43lYHXVWNgXegdYRIK9FqsysoMtwWGAW-5XDfLptI.ttf) format('truetype');
+}

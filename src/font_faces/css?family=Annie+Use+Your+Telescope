@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Annie Use Your Telescope';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Annie Use Your Telescope Regular'), local('AnnieUseYourTelescope-Regular'), url(https://fonts.gstatic.com/s/annieuseyourtelescope/v8/2cuiO5VmaR09C8SLGEQjGtHf9zmWs0oMQOHwtCnidY73rGVtsTkPsbDajuO5ueQw.ttf) format('truetype');
+}

@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Marcellus SC';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Marcellus SC'), local('MarcellusSC-Regular'), url(https://fonts.gstatic.com/s/marcellussc/v5/_jugwxhkkynrvsfrxVx8gYnF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
+}

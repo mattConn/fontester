@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Sarina';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Sarina'), local('Sarina-Regular'), url(https://fonts.gstatic.com/s/sarina/v6/Lrs9D2ShM-BOYNegh41IXw.ttf) format('truetype');
+}

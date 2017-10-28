@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Loved by the King';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Loved by the King'), local('LovedbytheKing'), url(https://fonts.gstatic.com/s/lovedbytheking/v7/wg03xD4cWigj4YDufLBSrx3JsGi6SJNEbUJOQz-M1ZI.ttf) format('truetype');
+}

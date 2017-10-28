@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Chivo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Chivo Regular'), local('Chivo-Regular'), url(https://fonts.gstatic.com/s/chivo/v9/GCfZZhEBktKQec0okJ7kUw.ttf) format('truetype');
+}

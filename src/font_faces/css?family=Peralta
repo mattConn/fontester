@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Peralta';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Peralta'), local('Peralta-Regular'), url(https://fonts.gstatic.com/s/peralta/v5/0XzGguRNrhp-cySP7WNMRA.ttf) format('truetype');
+}

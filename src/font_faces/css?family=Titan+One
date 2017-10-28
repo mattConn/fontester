@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Titan One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Titan One'), local('TitanOne'), url(https://fonts.gstatic.com/s/titanone/v5/WPXWYAi7p51wpAczQ2NVnKCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}

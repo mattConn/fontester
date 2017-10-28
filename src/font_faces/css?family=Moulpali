@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Moulpali';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Moul Pali'), local('MoulPali'), url(https://fonts.gstatic.com/s/moulpali/v10/diD74BprGhmVkJoerKmrKA.ttf) format('truetype');
+}

@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Aubrey';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Aubrey Regular'), local('Aubrey-Regular'), url(https://fonts.gstatic.com/s/aubrey/v10/bF9J1Vntpq1kk5PYb6_uwg.ttf) format('truetype');
+}

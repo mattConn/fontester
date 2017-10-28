@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Risque';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Risque'), local('Risque-Regular'), url(https://fonts.gstatic.com/s/risque/v5/iFA7a9Hk8IxDgPVBx7IE_Q.ttf) format('truetype');
+}

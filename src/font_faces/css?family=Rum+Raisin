@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Rum Raisin';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Rum Raisin'), local('RumRaisin-Regular'), url(https://fonts.gstatic.com/s/rumraisin/v5/cHURTelFoMez6hk_FwmKqC3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+}

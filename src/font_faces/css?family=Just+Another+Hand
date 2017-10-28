@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Just Another Hand';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Just Another Hand Regular'), local('JustAnotherHand-Regular'), url(https://fonts.gstatic.com/s/justanotherhand/v9/fKV8XYuRNNagXr38eqbRf1IfqgZqv9KXZDd4_em_FKQ.ttf) format('truetype');
+}

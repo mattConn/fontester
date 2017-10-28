@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Sofia';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Sofia'), local('Sofia-Regular'), url(https://fonts.gstatic.com/s/sofia/v6/KjFw0GXBsysA148bxeiikg.ttf) format('truetype');
+}

@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Devonshire';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Devonshire-Regular'), url(https://fonts.gstatic.com/s/devonshire/v6/aaQyvbEWf33gEr0fgtqsrS3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+}

@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Iceland';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Iceland'), local('Iceland-Regular'), url(https://fonts.gstatic.com/s/iceland/v6/xpBG9REU4FIb5KOe0_j5Rw.ttf) format('truetype');
+}

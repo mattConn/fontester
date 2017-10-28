@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Dawning of a New Day';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Dawning of a New Day'), local('DawningofaNewDay'), url(https://fonts.gstatic.com/s/dawningofanewday/v8/JiDsRhiKZt8uz3NJ5xA06m7WZG3oz88cABkPJxHcz44.ttf) format('truetype');
+}

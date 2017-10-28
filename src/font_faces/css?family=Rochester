@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Rochester';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Rochester Regular'), local('Rochester-Regular'), url(https://fonts.gstatic.com/s/rochester/v8/nE50b4-SbQ54pks-8vOpl6CWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}

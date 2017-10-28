@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Tillana';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Tillana Regular'), local('Tillana-Regular'), url(https://fonts.gstatic.com/s/tillana/v3/1gsqwNKbDO0l0qunK0i3Kg.ttf) format('truetype');
+}

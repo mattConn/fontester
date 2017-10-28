@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Happy Monkey';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Happy Monkey'), local('HappyMonkey-Regular'), url(https://fonts.gstatic.com/s/happymonkey/v6/c2o0ps8nkBmaOYctqBq1rYnF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
+}

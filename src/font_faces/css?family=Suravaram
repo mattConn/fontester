@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Suravaram';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Suravaram'), url(https://fonts.gstatic.com/s/suravaram/v4/VH7CThgBehnoZ_ksSl_506CWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}

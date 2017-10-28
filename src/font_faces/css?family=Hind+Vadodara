@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Hind Vadodara';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Hind Vadodara Regular'), local('HindVadodara-Regular'), url(https://fonts.gstatic.com/s/hindvadodara/v4/9c6KKeibr6NtFqknnNxZB2bSELdkQ3Les1sVIQZgz9g.ttf) format('truetype');
+}

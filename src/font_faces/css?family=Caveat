@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Caveat';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Caveat'), local('Caveat-Regular'), url(https://fonts.gstatic.com/s/caveat/v3/rm030mEGKaFzXfk9djcu2w.ttf) format('truetype');
+}

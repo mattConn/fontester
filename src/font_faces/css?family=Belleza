@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Belleza';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Belleza Regular'), local('Belleza-Regular'), url(https://fonts.gstatic.com/s/belleza/v6/0PM4qwfASmAB2sOtSkd0vQ.ttf) format('truetype');
+}

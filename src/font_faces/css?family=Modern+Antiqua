@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Modern Antiqua';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Modern Antiqua Regular'), local('ModernAntiqua-Regular'), url(https://fonts.gstatic.com/s/modernantiqua/v7/8qX_tr6Xzy4t9fvZDXPkhwKZaxxWfFldPDbIGRdOGHU.ttf) format('truetype');
+}

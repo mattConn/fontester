@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Habibi';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Habibi'), local('Habibi-Regular'), url(https://fonts.gstatic.com/s/habibi/v6/PIjQG9HFLS2LoHW_oRrGfg.ttf) format('truetype');
+}

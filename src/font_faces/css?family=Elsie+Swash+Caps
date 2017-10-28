@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Elsie Swash Caps';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Elsie Swash Caps Regular'), local('ElsieSwashCaps-Regular'), url(https://fonts.gstatic.com/s/elsieswashcaps/v6/9L3hIJMPCf6sxCltnxd6X7696hY-neTbCTvwDUFvtCU.ttf) format('truetype');
+}

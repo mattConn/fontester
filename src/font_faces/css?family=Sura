@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Sura';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Sura'), local('Sura-Regular'), url(https://fonts.gstatic.com/s/sura/v2/o-W6zBhGCFphrJOIYYrpDQ.ttf) format('truetype');
+}

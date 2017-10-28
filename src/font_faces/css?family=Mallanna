@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Mallanna';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Mallanna'), url(https://fonts.gstatic.com/s/mallanna/v5/JB3kmVLpnvCQMguM1t5KufesZW2xOQ-xsNqO47m55DA.ttf) format('truetype');
+}

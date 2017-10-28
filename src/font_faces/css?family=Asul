@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Asul';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Asul Regular'), local('Asul-Regular'), url(https://fonts.gstatic.com/s/asul/v7/VAzkC2TIhQ2e4KQLDKf9Rw.ttf) format('truetype');
+}

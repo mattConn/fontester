@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Ek Mukta';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ek Mukta Regular'), local('EkMukta-Regular'), url(https://fonts.gstatic.com/s/ekmukta/v12/LkANqRTGviFkcUlniFHuMPesZW2xOQ-xsNqO47m55DA.ttf) format('truetype');
+}

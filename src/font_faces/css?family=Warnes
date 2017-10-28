@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Warnes';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Warnes'), local('Warnes-Regular'), url(https://fonts.gstatic.com/s/warnes/v7/cjADc-ECb_imMRtYsaiZeQ.ttf) format('truetype');
+}

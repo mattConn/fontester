@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Paprika';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Paprika'), local('Paprika-Regular'), url(https://fonts.gstatic.com/s/paprika/v5/wzbKN-UTMCqP5Xrc1FmOdQ.ttf) format('truetype');
+}

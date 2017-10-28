@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Zeyada';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Zeyada'), url(https://fonts.gstatic.com/s/zeyada/v7/FeJfB_4jz_Wd7Hn2NxR2Wg.ttf) format('truetype');
+}

@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Walter Turncoat';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Walter Turncoat Regular'), local('WalterTurncoat-Regular'), url(https://fonts.gstatic.com/s/walterturncoat/v8/sG9su5g4GXy1KP73cU3hvVtilBVlnnYjrhQJoWzUtmo.ttf) format('truetype');
+}

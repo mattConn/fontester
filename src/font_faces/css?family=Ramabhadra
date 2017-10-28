@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Ramabhadra';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ramabhadra'), url(https://fonts.gstatic.com/s/ramabhadra/v6/oNTMAa70bDBuiWMWqRNhAS3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+}

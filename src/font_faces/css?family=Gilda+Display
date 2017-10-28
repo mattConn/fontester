@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Gilda Display';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Gilda Display'), local('GildaDisplay-Regular'), url(https://fonts.gstatic.com/s/gildadisplay/v5/8yAVUZLLZ3wb7dSsjix0CP1Ie94GXVQ4L73iNy0KJ5Y.ttf) format('truetype');
+}
