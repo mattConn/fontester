@@ -29,6 +29,9 @@ let textElements = [
     "strong"
 ];
 
+// remove dummy item from ft_fonts
+ft_fonts.pop();
+
 let i = 0;
 d.addEventListener("click",function(event){
     let t = event.target;
