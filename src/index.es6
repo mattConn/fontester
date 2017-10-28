@@ -29,8 +29,13 @@ let textElements = [
     "strong"
 ];
 
-
+let i = 0;
 d.addEventListener("click",function(event){
     let t = event.target;
-    t.style.fontFamily="sans-serif";
+    t.style.fontFamily = ft_fonts[i];
+
+    if(i == ft_fonts.length - 1)
+        i = 0;
+    else
+        i++;
 });

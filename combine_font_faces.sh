@@ -1,4 +1,4 @@
-FONTS='dist/fonts.css'
+FONTS='dist/ft_fonts.css'
 if [ ! -f $FONTS ]; then touch $FONTS; fi;
 
 for f in src/font_faces/*
