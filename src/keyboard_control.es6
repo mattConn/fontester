@@ -21,9 +21,9 @@ function keyCheck(e)
     //
     // break;
 
-    // case 82:  // r for random 
-    //
-    // break;
+    case 82:  // r for random 
+        i = Math.floor(Math.random() * ft_fonts.length - 1);
+    break;
 
     // case 72:  // h for help 
     //
