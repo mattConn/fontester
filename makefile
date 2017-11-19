@@ -1,4 +1,4 @@
-TRANSPILER = 'babel'
+TRANSPILER = 'node_modules/babel-cli/bin/babel.js'
 COMBINEFONTS = for f in src/font_faces/*; do cat $$f >> processing/ft_fonts.css; done;
 DISTCHECK = if [ ! -d dist ]; then mkdir dist; fi;
 
