@@ -1,23 +1,28 @@
 TRANSPILER = 'node_modules/babel-cli/bin/babel.js'
 COMBINEFONTS = for f in src/font_faces/*; do cat $$f >> processing/ft_fonts.css; done;
-DISTCHECK = if [ ! -d dist ]; then mkdir dist; fi;
+DIST = 'fontester-extension'
+DISTCHECK = if [ ! -d $(DIST) ]; then mkdir $(DIST); fi;
 
-dist/fontester.js: src/*.es6
-	$(DISTCHECK) lib/finc src/index.es6 > processing/index.es6; $(TRANSPILER) processing/index.es6 > dist/fontester.js; rm processing/*;
+# main script
+$(DIST)/fontester.js: src/*.es6
+	$(DISTCHECK) lib/finc src/index.es6 > processing/index.es6; $(TRANSPILER) processing/index.es6 > $(DIST)/fontester.js; rm processing/*;
 
-dist/index.html: src/index.html
-	$(DISTCHECK) cp src/index.html dist/index.html
-
-dist/ft_fonts.css: src/font_faces
-	$(DISTCHECK) $(COMBINEFONTS) lib/generate_font_array processing/ft_fonts.css > dist/ft_fonts.js; cp processing/ft_fonts.css dist; rm processing/*;
+# generate new font stylesheet and corresponding array for script
+$(DIST)/ft_fonts.css: src/font_faces
+	$(DISTCHECK) $(COMBINEFONTS) lib/generate_font_array processing/ft_fonts.css > $(DIST)/ft_fonts.js; cp processing/ft_fonts.css $(DIST); rm processing/*;
 
 # less verbose alias of above task
-fonts: dist/ft_fonts.css
+fonts: $(DIST)/ft_fonts.css
 
+# copy chrome-extension files to dist
+chrome-extension:
+	$(DISTCHECK) cp src/chrome-extension/* $(DIST)
+
+# update font scanner (array generator) if needed
 lib/generate_font_array: generate_font_array.l
 	sh compile_font_scanner.sh
 
-all: dist/fontester.js dist/index.html dist/ft_fonts.css
+all: $(DIST)/fontester.js $(DIST)/ft_fonts.css chrome-extension
 
 clean:
-	rm -rf dist
+	rm -rf $(DIST)
