@@ -5,7 +5,7 @@ DISTCHECK = if [ ! -d $(DIST) ]; then mkdir $(DIST); fi;
 
 # main script
 $(DIST)/fontester.js: src/*.es6
-	$(DISTCHECK) lib/finc src/index.es6 > processing/index.es6; $(TRANSPILER) processing/index.es6 > $(DIST)/fontester.js; rm processing/*;
+	$(DISTCHECK) lib/finc src/main.es6 > processing/main.es6; $(TRANSPILER) processing/main.es6 > $(DIST)/fontester.js; rm processing/*;
 
 # generate new font stylesheet and corresponding array for script
 $(DIST)/ft_fonts.css: src/font_faces

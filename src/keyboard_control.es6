@@ -17,21 +17,34 @@ function keyCheck(e)
             i++;
     break;
 
-    // case 76:  // l for list 
-    //
-    // break;
-
     case 82:  // r for random 
         i = Math.floor(Math.random() * ft_fonts.length - 1);
     break;
 
-    // case 72:  // h for help 
-    //
-    // break;
+	case 72: // h for help
+		alert(instructions);
+	break;
+
+    case 83:  // s to set font 
+		let font = prompt("Enter name of font:");
+		let error = "Could not find font \"${font}.\""
+
+		if(ft_fonts.indexOf(font) > -1)
+			i = ft_fonts.indexOf(font)
+		else
+			alert(`Could not find font \"${font}\".`);
+		
+    break;
+
+	case 76: // l to list
+		console.log(ft_fonts.join('\n'));
+	break;
 
   }
 
     document.querySelectorAll('.'+targetClass).forEach(function(element) {
         element.style.fontFamily = ft_fonts[i];
     }, this);
+	
+	console.log(ft_fonts[i]);
 }
