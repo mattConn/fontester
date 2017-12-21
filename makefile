@@ -1,6 +1,6 @@
 TRANSPILER = 'node_modules/babel-cli/bin/babel.js'
-COMBINEFONTS = for f in src/font_faces/*; do cat $$f >> processing/ft_fonts.css; done;
-DIST = 'fontester-extension'
+COMBINEFONTS = for f in src/font_faces/*; do cat $$f >> tmp/ft_fonts.css; done;
+DIST = 'dist'
 DISTCHECK = if [ ! -d $(DIST) ]; then mkdir $(DIST); fi;
 
 # ================ #
@@ -9,11 +9,11 @@ DISTCHECK = if [ ! -d $(DIST) ]; then mkdir $(DIST); fi;
 
 # main script
 $(DIST)/fontester.js: src/*.es6
-	$(DISTCHECK) lib/finc src/main.es6 > processing/main.es6; $(TRANSPILER) processing/main.es6 > $(DIST)/fontester.js; rm processing/*.es6;
+	$(DISTCHECK) lib/finc src/main.es6 > tmp/main.es6; $(TRANSPILER) tmp/main.es6 > $(DIST)/fontester.js; rm tmp/*.es6;
 
 # generate new font stylesheet and corresponding array for script
 $(DIST)/ft_fonts.css: src/font_faces
-	$(DISTCHECK) $(COMBINEFONTS) lib/generate_font_array processing/ft_fonts.css > $(DIST)/ft_fonts.js; cp processing/ft_fonts.css $(DIST); rm processing/*.css;
+	$(DISTCHECK) $(COMBINEFONTS) lib/generate_font_array tmp/ft_fonts.css > $(DIST)/ft_fonts.js; mv tmp/ft_fonts.css $(DIST);
 
 # less verbose alias of above task
 fonts: $(DIST)/ft_fonts.css
