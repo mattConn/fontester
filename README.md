@@ -17,8 +17,10 @@ When running `make all`:
 2. Lastly, all files needed for the functionality of a Chrome extension are copied from `chrome-extension` to `dist`. 
 
 Here's a visual:
-- file-includer(main.es6) => tmp; babel(tmp) => dist;
-- cat($f in font_faces) => tmp; lexer(tmp) => dist; mv tmp => dist;
+- file-includer(main.es6) => tmp;
+    - babel(tmp) => dist;
+- cat($f in font_faces) => tmp;
+    - lexer(tmp) => dist; mv tmp => dist;
 - cp chrome-extension => dist;
 
 ## To install
