@@ -4,10 +4,10 @@ This is the successor to [FontCycler](https://github.com/mattConn/fontcycler).
 
 ## To build
 On the first build:  
-`npm install; make all;`
+`npm install && make all`
 
 After node modules have been installed:  
-`make all;`  
+`make all`  
 will handle all tasks.  
 
 ## Folder Structure
