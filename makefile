@@ -3,6 +3,10 @@ COMBINEFONTS = for f in src/font_faces/*; do cat $$f >> processing/ft_fonts.css;
 DIST = 'fontester-extension'
 DISTCHECK = if [ ! -d $(DIST) ]; then mkdir $(DIST); fi;
 
+# ================ #
+# main build tasks #
+# ================ #
+
 # main script
 $(DIST)/fontester.js: src/*.es6
 	$(DISTCHECK) lib/finc src/main.es6 > processing/main.es6; $(TRANSPILER) processing/main.es6 > $(DIST)/fontester.js; rm processing/*.es6;
@@ -18,11 +22,24 @@ fonts: $(DIST)/ft_fonts.css
 chrome-extension:
 	$(DISTCHECK) cp src/chrome-extension/* $(DIST)
 
-# update font scanner (array generator) if needed
-lib/generate_font_array: generate_font_array.l
+# ================================================= #
+# optional build tasks for compiling ./lib binaries #
+# ================================================= #
+
+# recompile font scanner 
+lib-scanner:
 	sh compile_font_scanner.sh
 
-all: $(DIST)/fontester.js $(DIST)/ft_fonts.css chrome-extension
+# recompile file includer 
+lib-finc:
+	sh compile_file_includer.sh
+
+# recompile all lib binaries
+lib-recompile: lib-finc lib-scanner
+
+# ================================================= #
+
+all: $(DIST)/fontester.js $(DIST)/ft_fonts.css chrome-extension # run all main build tasks
 
 clean:
 	rm -rf $(DIST)
