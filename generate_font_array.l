@@ -1,3 +1,4 @@
+%option noyywrap
 %{
 /*
 Generate JS font array from ft_fonts.css
