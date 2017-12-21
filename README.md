@@ -21,8 +21,6 @@ Here's a visual:
 - cat($f in font_faces) => tmp; lexer(tmp) => dist; mv tmp => dist;
 - cp chrome-extension => dist;
 
-# To add/remove fonts
-
 ## To install
 In Chrome, navigate to `chrome://extensions/` and drag the "dist" folder into the browser window.
 
